@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SimpleBankingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:homeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|D:\\SimpleBankingSystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|D:\\SimpleBankingSystem\\depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:depositform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|D:\\SimpleBankingSystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|D:\\SimpleBankingSystem\\receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:receiptform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\transferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:transferform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:withdrawform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|D:\\SimpleBankingSystem\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|d:\\simplebankingsystem\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9FEE5A-1A1A-6253-DD75-C5720102C9D0}|SimpleBankingSystem.csproj|solutionrelative:accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\HomeForm.cs",
+              "RelativeToolTip": "HomeForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T06:06:04.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\HomeForm.cs",
+              "RelativeDocumentMoniker": "HomeForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\HomeForm.cs [Design]",
+              "RelativeToolTip": "HomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:51:26.745Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\DashboardForm.cs [Design]",
+              "RelativeToolTip": "DashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:48:49.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "DashboardForm.Designer.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "DashboardForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:47:40.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransferForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\TransferForm.cs",
+              "RelativeDocumentMoniker": "TransferForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\TransferForm.cs",
+              "RelativeToolTip": "TransferForm.cs",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAwwKQBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:38:12.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WithdrawForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\WithdrawForm.cs",
+              "RelativeDocumentMoniker": "WithdrawForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\WithdrawForm.cs",
+              "RelativeToolTip": "WithdrawForm.cs",
+              "ViewState": "AgIAABwBAAAAAAAAAAAswC8BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:37:26.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepositForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\DepositForm.cs",
+              "RelativeDocumentMoniker": "DepositForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\DepositForm.cs",
+              "RelativeToolTip": "DepositForm.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAswP0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:17:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\AccountForm.cs",
+              "RelativeDocumentMoniker": "AccountForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\AccountForm.cs",
+              "RelativeToolTip": "AccountForm.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAowGoBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:16:42.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\AccountForm.cs",
+              "RelativeDocumentMoniker": "AccountForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\AccountForm.cs [Design]",
+              "RelativeToolTip": "AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:10:01.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "DashboardForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\DashboardForm.cs",
+              "RelativeToolTip": "DashboardForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:07:42.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReceiptForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\ReceiptForm.cs",
+              "RelativeDocumentMoniker": "ReceiptForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\ReceiptForm.cs [Design]",
+              "RelativeToolTip": "ReceiptForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:18:02.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepositForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\DepositForm.cs",
+              "RelativeDocumentMoniker": "DepositForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\DepositForm.cs [Design]",
+              "RelativeToolTip": "DepositForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T17:17:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:38:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\UIHelper.cs",
+              "RelativeDocumentMoniker": "UIHelper.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\UIHelper.cs",
+              "RelativeToolTip": "UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T17:20:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\SimpleBankingSystem\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "D:\\SimpleBankingSystem\\CustomerForm.cs",
+              "RelativeToolTip": "CustomerForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T18:05:07.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
