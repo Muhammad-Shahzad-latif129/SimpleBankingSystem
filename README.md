@@ -1,7 +1,13 @@
 # Simple Banking System
 
 A professional Banking Management System built using C# WinForms and SQL Server.
+## Screenshots
 
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Login
+![Login](Screenshots/login.png)
 ## Features
 
 - Login Authentication
